@@ -20,7 +20,8 @@ h1 {
 }
 
 .box {
-  border: solid 1px gray;
+  border: solid 1px rgba(133, 66, 66, 0.993);
+  background: #ababab;
   padding: 1rem;
   margin: 1.5rem;
   border-radius: 10px;
